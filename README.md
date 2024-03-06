@@ -13,7 +13,7 @@ and after that start the dev server.
 npm start
 ```
 # Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions are welcome! submit a pull request.
 Setup to Create a Pull Request
 To contribute to this project, follow these steps:
 
