@@ -1,13 +1,18 @@
 ![React Todo App](./banner.png)
-React Todo List
-This is a simple todo list application built with React.
 
-Installation
-To run this project locally, follow these steps:
+# React Todo App.
+## Getting Started
 
-Clone this repository to your local machine using:
+The recommended way to get started with the project is to follow the [YouTube tutorial](https://youtu.be/W0Uf_xu350k). You will find all the step-by-step guides. Or you can start the project on your own by following the guide below.
 
-git clone https://github.com/umairmanzoor1143/react-todo-list.git
+After getting the starter files, you need to go the file directory and run
 
+```shell
 npm install
-npm run start
+```
+
+and after that start the dev server.
+
+```shell
+npm start
+
