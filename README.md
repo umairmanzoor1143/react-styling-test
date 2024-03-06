@@ -21,7 +21,7 @@ Fork this repository by clicking on the 'Fork' button at the top right corner of
 
 Clone your forked repository to your local machine:
 ```shell
-git clone https://github.com/your-username/test.git
+git clone https://github.com/umairmanzoor1143/test.git
 ```
 Create a new branch for your changes:
 ```shell
