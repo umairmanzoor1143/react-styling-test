@@ -1,5 +1,5 @@
 ![React Todo App](./banner.png)
-
+![React Todo App Modal](./image.png)
 # React Todo App.
 ## Getting Started
 
